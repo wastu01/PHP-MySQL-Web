@@ -27,3 +27,9 @@ https://codepen.io/gretema/pen/eqVorL
 https://www.fooish.com/jquery/ajax.html
 
 > 僅供學習用途，圖片為組員提供，影音為本人提供。
+
+> 感謝 [蔡承洋](https://www.facebook.com/mktsai) 老師協助完成架設網站
+
+> 以及 [劉紅豆](https://www.facebook.com/groups/226604101804547/user/1393369844/) 老師提供實務業界經驗
+
+> & 組員們提供精美素材
