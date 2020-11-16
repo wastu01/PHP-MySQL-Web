@@ -14,10 +14,13 @@ https://ntcu-dct-php.000webhostapp.com/
 ## 參考資料：
 > 南台科大動態網頁設計線上教學
 https://www.youtube.com/playlist......
+
 > Bootstrap 4 ：
 https://medium.com/馬格蕾特的冒險者日誌/bs-bootsrap-4-components-元件篇-上-78f44dba90b9
+
 > Bootstrap 5 ：
 https://v5.getbootstrap.com/....../getti....../introduction/
+
 > AJAX：
 https://codepen.io/gretema/pen/eqVorL
 https://www.fooish.com/jquery/ajax.html
