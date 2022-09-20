@@ -13,7 +13,7 @@ PHP 網頁後端程式設計課堂作業實作
 
 ## 參考資料：
 > 南台科大動態網頁設計線上教學
-https://www.youtube.com/playlist......
+https://youtube.com/playlist?list=PLwIFDX7xv6k3RkPprgn_LRsODCVr9a-H7
 
 > Bootstrap 4 ：
 https://medium.com/馬格蕾特的冒險者日誌/bs-bootsrap-4-components-元件篇-上-78f44dba90b9
